@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name QRM8-078-05.0-L-D-A)(type Legacy)(uri "C:/Users/Jacky Li/Desktop/personal_use/frisch/QRM8-078-05.0-L-D-A/QRM8-078-05.0-L-D-A.lib")(options "")(descr ""))
+  (lib (name pad_64in-rescue)(type Legacy)(uri ${KIPRJMOD}/pad_64in-rescue.lib)(options "")(descr ""))
+)
