@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "pad_64in-rescue")(type "KiCad")(uri "X:/Jacky_Serious/大学/科研/Frisch Lab/ACDC/Anode Design/Jacky's design/kicad_files/SquarePad-anode-capactive-readout/Design1_SignleBoard/kicad_project/pad_64in-rescue.kicad_sym")(options "")(descr ""))
+)

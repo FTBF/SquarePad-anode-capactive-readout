@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AnodePads")(type "KiCad")(uri "X:/Jacky_Serious/大学/科研/Frisch Lab/ACDC/Anode Design/Jacky's design/kicad_files/old versions/AnodePads.pretty")(options "")(descr ""))
+)
