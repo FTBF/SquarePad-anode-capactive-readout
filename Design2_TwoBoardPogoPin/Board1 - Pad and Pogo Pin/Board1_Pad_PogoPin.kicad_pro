@@ -428,7 +428,7 @@
       "idf": "",
       "netlist": "Y:/KiCad/7.0/",
       "specctra_dsn": "",
-      "step": "Board1_Pad_PogoPin.step",
+      "step": "../Board1_Pad_PogoPin.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
